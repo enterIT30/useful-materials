@@ -1,4 +1,37 @@
-# **Полезные материалы по HTML, CSS и JS**    28.03.2022
+# **Полезные материалы по HTML, CSS и JS**
+
+> _Понравилась подборка?_ _Поддержи подпиской телеграм и ютуб каналы!_
+>
+>
+> + https://t.me/enterIT30
+> + https://www.youtube.com/enterIT30
+>
+> _Подборка регулярно обновляется_ 😺
+## **Содержание**
+
+### 1. [**Верстка**](#верстка)
+   + [HTML / CSS](#html--css)
+     + [Материалы (RU)](#материалы-ru)
+     + [Материалы (ENG)](#материалы-eng)
+     + [Flexbox](#flexbox)
+     + [Grid layout](#grid-layout)
+     + [Bootstrap](#bootstrap)
+     + [Бесплатные курсы](#бесплатные-курсы)
+     + [БЭМ](#бэм)
+     + [SCSS / SASS / LESS](#scss--sass--less)
+     + [Игры](#игры)
+     + [Доп. материалы](#доп-материалы)
+   + [Emmet](#emmet)
+   + [Git, GitHub](#git-github)
+   + [Markdown](#markdown)
+   + [Figma](#figma)
+### 2. [**JavaScript**](#javascript)
+   + [Материалы JS (RU)](#материалы-js-ru)
+   + [Материалы JS (ENG)](#материалы-js-eng)
+   + [Доп. материалы](#доп-материалы-js)
+   + [Игры](#игры-js)
+   + [Тесты / Задачи](#тесты--задачи)
+### 3. [**Английский язык**](#английский-язык)
 
 
 ## **Верстка**
@@ -80,13 +113,6 @@ ___
 
   + [Bootstrap](https://getbootstrap.ru/docs/4.5/)
 
-+ ### Игры
-
-  + [Изучение селекторов](https://flukeout.github.io/)
-  + [Изучение флексбоксов](https://flexboxfroggy.com/#ru)
-  + [Изучение флексбоксов](http://www.flexboxdefense.com/)
-  + [Изучение гридов](http://cssgridgarden.com/#ru)
-
 + ### Бесплатные курсы
 
   + [code-basics. HTML для начинающих](https://ru.code-basics.com/languages/html)
@@ -107,8 +133,13 @@ ___
 
   + [Документация LESS](http://lesscss.org/)
 
++ ### Игры 
 
-
+  + [Изучение селекторов](https://flukeout.github.io/)
+  + [Изучение флексбоксов](https://flexboxfroggy.com/#ru)
+  + [Изучение флексбоксов](http://www.flexboxdefense.com/)
+  + [Изучение гридов](http://cssgridgarden.com/#ru)
+  + [Изучение Git](https://learngitbranching.js.org/?locale=ru_RU)
 + ### Доп материалы
 
   + [Подборка новостей](http://tympanus.net/codrops/)
@@ -191,7 +222,7 @@ ___
 
   + [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU) — игра-визуализатор репозитория git;
 
-+ #### Курсы
++ #### Бесплатные курсы
   + [Введение в Git](https://ru.hexlet.io/courses/intro_to_git) — курс от Хекслет;
 
   + [Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) — видеокурс от learn.javascript.ru;
@@ -228,7 +259,7 @@ ___
 
 ## **JavaScript**
 ____
-+ ### **Материалы (RU)**
++ ### **Материалы JS (RU)**
 
   + [Современный учебник JavaScript (learnJS)](http://learn.javascript.ru/)
 
@@ -257,7 +288,7 @@ ____
   + [JavaScript основы](https://docode.ru/p/javascript-osnovy/)
 
 
-+ ### **Материалы (ENG)**
++ ### **Материалы JS (ENG)**
 
   + [The Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -285,7 +316,7 @@ ____
 
   + [Learn Javascript Fast](https://learnjavascriptfast.com/)
 
-+ ### Доп материалы
++ ### Доп. материалы JS
 
   + [Шпаргалка по JavaScript](https://telegra.ph/SHpargalka-po-JavaScript-02-07)
 
@@ -308,7 +339,9 @@ ____
 
   + [Front-end Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/#3.9)
 
-+ ### Игры
+  + [12 хитростей JavaScript, которых вы не найдете в большинстве уроков](https://bookflow.ru/12-hitrostej-javascript-kotoryh-vy-ne-najdete-v-bolshinstve-urokov/)
+
++ ### Игры JS
 
   + [Untrusted](https://alexnisnevich.github.io/untrusted/)
 
@@ -338,9 +371,8 @@ ____
 
   + [Codewars](https://www.codewars.com/dashboard)
 
-## **Английский**
+## **Английский язык**
 
-+ Курсы
   + [Duolingo](https://ru.duolingo.com/)
 
   + [Lingualeo](https://lingualeo.com/ru)
